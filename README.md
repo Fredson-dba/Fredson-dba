@@ -5,7 +5,7 @@
 - 💡 Me interesso por Machine Learning, Estatística, Inteligência Artificial e pelas aplicações práticas que essas áreas podem trazer para resolver problemas do mundo real.
 
   ##
-<div>
+<div style="display: inline_block"><br>
   <a href="https://github.com/Fredson-db/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fredson-dba&show_icons=true&theme=dark#gh-dark-mode-only"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredson-dba&size_weight=0.5&count_weight=0.5" />
