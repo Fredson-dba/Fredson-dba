@@ -4,6 +4,25 @@
 - 🎓 Estudante e entusiasta de Data Science, apaixonado por explorar dados e transformá-los em conhecimento
 - 💡 Me interesso por Machine Learning, Estatística, Inteligência Artificial e pelas aplicações práticas que essas áreas podem trazer para resolver problemas do mundo real.
 
+##
+
+📊 Atualmente, estou me aprofundando em: 
+- Python para Análise de Dados
+- Visualização de Dados (Matplotlib, Seaborn, Plotly)
+- Machine Learning (Scikit-learn)
+- SQL e Bancos de Dados
+
+ 🚀 Meu objetivo é desenvolver projetos que demonstrem minhas habilidades, contribuam com a comunidade e me ajudem a evoluir como profissional de Ciência de Dados. 
+
+ ##
+
+ 🔧 Tecnologias & Ferramentas
+
+- Linguagens: Python, SQL, R (básico)
+
+- Bibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+- Ferramentas: Jupyter Notebook, Git & GitHub, VS Code
   ##
 <div style="display: inline_block"><br>
   <a href="https://github.com/Fredson-db/github-readme-stats">
@@ -25,25 +44,7 @@
 <a href = "https://www.linkedin.com/in/fredson-magalhaes/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
 </div>
 
-##
 
-📊 Atualmente, estou me aprofundando em: 
-- Python para Análise de Dados
-- Visualização de Dados (Matplotlib, Seaborn, Plotly)
-- Machine Learning (Scikit-learn)
-- SQL e Bancos de Dados
-
- 🚀 Meu objetivo é desenvolver projetos que demonstrem minhas habilidades, contribuam com a comunidade e me ajudem a evoluir como profissional de Ciência de Dados. 
-
- ##
-
- 🔧 Tecnologias & Ferramentas
-
-- Linguagens: Python, SQL, R (básico)
-
-- Bibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-
-- Ferramentas: Jupyter Notebook, Git & GitHub, VS Code
 
 ##
 
