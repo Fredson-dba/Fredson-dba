@@ -24,11 +24,13 @@
 
 - Ferramentas: Jupyter Notebook, Git & GitHub, VS Code
   ##
-<div style="display: inline_block"><br>
-  <a href="https://github.com/Fredson-db">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fredson-dba&show_icons=true&theme=dark#gh-dark-mode-only"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredson-dba&size_weight=0.5&count_weight=0.5" />
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fredson-dba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fredson-dba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 
 <div style="display: inline_block"><br>
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
@@ -44,9 +46,14 @@
 <a href = "https://www.linkedin.com/in/fredson-magalhaes/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
 </div>
 
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fredson-dba&"  />
+</div>
 
-##
+###
+
 
 📈 O que você vai encontrar por aqui
 
@@ -58,10 +65,4 @@
 
 - Exercícios e resoluções de desafios
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fredson-dba/Fredson-dba/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fredson-dba/Fredson-dba/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fredson-dba/Fredson-dba/output/pacman-contribution-graph.svg">
-</picture>
 
