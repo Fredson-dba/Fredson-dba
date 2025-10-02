@@ -25,7 +25,7 @@
 - Ferramentas: Jupyter Notebook, Git & GitHub, VS Code
   ##
 <div style="display: inline_block"><br>
-  <a href="https://github.com/Fredson-db/github-readme-stats">
+  <a href="https://github.com/Fredson-db">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fredson-dba&show_icons=true&theme=dark#gh-dark-mode-only"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredson-dba&size_weight=0.5&count_weight=0.5" />
 </div>
